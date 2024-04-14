@@ -1,0 +1,19 @@
+﻿/* src/components/Sidebar.css */
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: auto;
+  background-color: #f0f0f0;
+  padding: 10px;
+}
+
+.sidebar-menu {
+  flex: 1;
+  overflow: auto;
+}
+
+.sidebar-footer {
+  padding-top: 10px;
+  text-align: center;
+}

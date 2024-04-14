@@ -1,0 +1,70 @@
+﻿{
+    "inputs": [
+      {
+        "name": "input1",
+        "min": 0.0,
+        "max": 1.0
+      },
+      {
+        "name": "input2",
+        "min": 0.0,
+        "max": 10.0
+      },
+      {
+        "name": "input3",
+        "min": 0.0,
+        "max": 5.0
+      },
+      {
+        "name": "input4",
+        "min": 0.0,
+        "max": 10.0
+      },
+      {
+        "name": "input5",
+        "min": 0.0,
+        "max": 100.0
+      },
+      {
+        "name": "input6",
+        "min": 0.0,
+        "max": 100.0
+      },
+      {
+        "name": "input7",
+        "min": 0.0,
+        "max": 50.0
+      },
+      {
+        "name": "input8",
+        "min": 0.0,
+        "max": 25.0
+      },
+      {
+        "name": "input9",
+        "min": 0.0,
+        "max": 75.0
+      },
+      {
+        "name": "input10",
+        "min": 0.0,
+        "max": 20.0
+      },
+      {
+        "name": "input11",
+        "min": 0.0,
+        "max": 30.0
+      }
+    ],
+    "outputs": [
+      {
+        "name": "output1"
+      },
+      {
+        "name": "output2"
+      },
+      {
+        "name": "output3"
+      }
+    ]
+  }

@@ -1,0 +1,11 @@
+﻿/* src/pages/SimulatorPage.css */
+.simulator-page {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .simulator-content {
+    display: flex;
+    flex-grow: 1;
+  }
